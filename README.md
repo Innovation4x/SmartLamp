@@ -1,6 +1,7 @@
 # SmartLamp
 Smart Lamp detecting Hand Gesture using AI
 
-# Reference
+
+# Human Detecion using TinyML:
 
 https://github.com/Innovation4x/WIZnetEVBPico-HumanDetection
